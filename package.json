@@ -4,7 +4,7 @@
   "description": "Provides Text Input component with colorization for password both on Android & iOS",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bamlab/react-native-text-input.git"
+    "url": "git+https://github.com/lauborges/react-native-text-input.git"
   },
   "keywords": [
     "react-native",
