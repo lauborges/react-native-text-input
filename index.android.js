@@ -21,14 +21,14 @@ var ReactChildren = require('ReactChildren');
 var StyleSheet = require('StyleSheet');
 var Text = require('Text');
 var TextInputState = require('TextInputState');
-var TimerMixin = require('react-native/node_modules/react-timer-mixin');
+var TimerMixin = require('react-timer-mixin');
 var TouchableWithoutFeedback = require('TouchableWithoutFeedback');
 var UIManager = require('UIManager');
 var View = require('View');
 
 var createReactNativeComponentClass = require('createReactNativeComponentClass');
-var emptyFunction = require('react-native/node_modules/fbjs/lib/emptyFunction');
-var invariant = require('react-native/node_modules/fbjs/lib/invariant');
+var emptyFunction = require('fbjs/lib/emptyFunction');
+var invariant = require('fbjs/lib/invariant');
 var requireNativeComponent = require('requireNativeComponent');
 
 var onlyMultiline = {
